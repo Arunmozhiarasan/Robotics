@@ -1,3 +1,5 @@
+HOSPITAL AID BOT USING WEBOTS
+
 The aim of this project is to develop an autonomous Hospital Aid bot using the Webots simulation environment, capable of navigating through the hospital corridor and visiting specific rooms according to a predefined sequence. Additionally, the project aims to use Webots to create robot prototypes, develop, test, and validate control algorithms. It also involves incorporating sensors that 
 replicate real-time functionality to observe and analyze their performance in the simulation, ensuring 
 the robot can operate effectively in real-world scenarios. 
